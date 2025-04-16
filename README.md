@@ -6,7 +6,8 @@ Soy un estudiante de **Ciencia de Datos** apasionado por el análisis e interpre
 
 A continuación, te presento una lista de algunos proyectos que he llevado a cabo:
 
-- **Proyecto 1:** Breve descripción del proyecto, destacando las tecnologías y metodologías aplicadas.
+- **CNN_Pneunonia_Covid:** Este es un proyecto de reden neuronales que llevé a cabo para la asignatura de aprendizaje automático, en el proyecto uso una CNN para distnguir pacientes con pneumonia, covid o gente sana a partir de radiografias del pulmón.
+  
 - **Proyecto 2:** Breve descripción del proyecto, enfatizando los logros obtenidos.
 - **Proyecto 3:** Breve descripción del proyecto, incluyendo su relevancia en mi formación profesional.
 
