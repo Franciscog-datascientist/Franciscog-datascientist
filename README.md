@@ -1,7 +1,3 @@
-Puedes copiar y pegar el siguiente contenido en tu archivo `README.md` para darle un estilo profesional y limpio a tu perfil:
-
----
-
 # ¡Hola! Soy **Francisco Galiano**
 
 Soy un estudiante de **Ciencia de Datos** apasionado por el análisis e interpretación de información. Actualmente, desarrollo proyectos tanto en el ámbito universitario como por iniciativa propia.
