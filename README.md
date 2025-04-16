@@ -16,7 +16,7 @@ A continuación, te presento una lista de algunos proyectos que he llevado a cab
 
 Si quieres saber más sobre mi trabajo o colaborar en algún proyecto, no dudes en contactarme:
 
-- [LinkedIn](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAEcmAQ4BxUAaL3_gXBf4ALe5izYN1pUxBWM&keywords=francisco%20galiano%20amoros&origin=RICH_QUERY_SUGGESTION&position=0&searchId=6753ac2c-c5ff-47f9-9c98-48bfcb50df45&sid=m.N&spellCorrectionEnabled=false)  
+- [LinkedIn](https://www.linkedin.com/in/francisco-galiano-amoros-b7a912293/)  
 - [Correo electrónico](mailto:franciscogdatascience@gmail.com)
 
 
