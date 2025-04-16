@@ -1,19 +1,27 @@
-# ¡Hola! Soy **Francisco Galiano**
+# ¡Hola! Soy Francisco Galiano 😎
 
-Soy un estudiante de **Ciencia de Datos** apasionado por el análisis e interpretación de información. Actualmente, desarrollo proyectos tanto en el ámbito universitario como por iniciativa propia.
+Soy un apasionado estudiante de **Ciencia de Datos** 🤓, siempre buscando descubrir los secretos que esconden los datos 📊. Actualmente, desarrollo proyectos tanto en el ámbito universitario como por iniciativa propia 🚀.
 
-## Proyectos Destacados
+---
 
-A continuación, te presento una lista de algunos proyectos que he llevado a cabo:
+## Proyectos Destacados 🌟
 
-- **CNN_Pneunonia_Covid:** Este es un proyecto de reden neuronales que llevé a cabo para la asignatura de aprendizaje automático, en el proyecto uso una CNN para distnguir pacientes con pneumonia, covid o gente sana a partir de radiografias del pulmón.
-  
-- **Proyecto 2:** Breve descripción del proyecto, enfatizando los logros obtenidos.
-- **Proyecto 3:** Breve descripción del proyecto, incluyendo su relevancia en mi formación profesional.
+Aquí te presento algunos de los proyectos que he llevado a cabo:
 
-*Más proyectos y detalles próximamente.*
+- **CNN_Pneumonia_Covid** 🦠🤖  
+  Este es un emocionante proyecto de redes neuronales que desarrollé para la asignatura de Aprendizaje Automático. Utilicé una CNN para distinguir entre pacientes con **pneumonia**, **Covid** y personas **sanas** a partir de radiografías del pulmón. ¡Una manera innovadora de poner la tecnología al servicio de la salud! 💪
 
-## Conecta Conmigo
+- **Proyecto 2** 🚀  
+  Breve descripción del proyecto, donde se enfatizan los logros obtenidos y la aplicación de técnicas avanzadas para resolver problemas reales. *(Detalles próximamente...)*
+
+- **Proyecto 3** 🔍  
+  Breve descripción del proyecto, resaltando su relevancia en mi formación profesional y el impacto en mi crecimiento como científico de datos. *(¡Muy pronto con más información!)*
+
+*¡Y muchos más proyectos y detalles próximos a ser revelados! 😉*
+
+---
+
+## Conecta Conmigo 🤝
 
 Si quieres saber más sobre mi trabajo o colaborar en algún proyecto, no dudes en contactarme:
 
