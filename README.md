@@ -11,12 +11,6 @@ Aquí te presento algunos de los proyectos que he llevado a cabo:
 - **CNN_Pneumonia_Covid** 🦠🤖  
   Este es un emocionante proyecto de redes neuronales que desarrollé para la asignatura de Aprendizaje Automático. Utilicé una CNN para distinguir entre pacientes con **pneumonia**, **Covid** y personas **sanas** a partir de radiografías del pulmón. ¡Una manera innovadora de poner la tecnología al servicio de la salud! 💪
 
-- **Proyecto 2** 🚀  
-  Breve descripción del proyecto, donde se enfatizan los logros obtenidos y la aplicación de técnicas avanzadas para resolver problemas reales. *(Detalles próximamente...)*
-
-- **Proyecto 3** 🔍  
-  Breve descripción del proyecto, resaltando su relevancia en mi formación profesional y el impacto en mi crecimiento como científico de datos. *(¡Muy pronto con más información!)*
-
 *¡Y muchos más proyectos y detalles próximos a ser revelados! 😉*
 
 ---
